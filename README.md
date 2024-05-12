@@ -124,10 +124,12 @@ endmodule
 
 OUTPUT:
 
+
 SIMULATION:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-5/assets/160517887/fe95cc6e-84da-4c00-84a5-5e87087ee392)
 
 
 ELABRATED DIAGRAM:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-5/assets/160517887/22a3d891-75b8-481b-b67a-a58736215bf6)
+
 
 
 
