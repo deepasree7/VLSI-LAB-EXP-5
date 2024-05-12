@@ -3,12 +3,11 @@ SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE
 
 AIM: To simulate and synthesis finite state machine using Xilinx ISE.
 
-**APPARATUS REQUIRED: **
+APPARATUS REQUIRED:
 
-Xilinx 14.7 
-Spartan6 FPGA
+Vivado™ ML 2023.2
 
-**PROCEDURE: **
+PROCEDURE: 
 
 1.Open Vivado: Launch Xilinx Vivado software on your computer.
 
@@ -34,7 +33,6 @@ Logic Diagram :
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-5/assets/6987778/34ec5d63-2b3b-4511-81ef-99f4572d5869)
 
 
-VERILOG CODE:
 
 ### FINITE STATE MACHINE
 ~~~
@@ -120,11 +118,9 @@ end
 
 endmodule
 
-```
-
+~~~
 
 OUTPUT:
-
 
 SIMULATION:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-5/assets/160517887/fe95cc6e-84da-4c00-84a5-5e87087ee392)
 
@@ -132,10 +128,9 @@ SIMULATION:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-5/assets/16051788
 ELABRATED DIAGRAM:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-5/assets/160517887/22a3d891-75b8-481b-b67a-a58736215bf6)
 
 
-
-
 RESULT:
-Simulation And Synthesis Finite State Machine is Successfully Verified using Vivado Software
+
+Simulation And Synthesis Finite State Machine is Successfully Verified using Vivado Software.
 
 
 
